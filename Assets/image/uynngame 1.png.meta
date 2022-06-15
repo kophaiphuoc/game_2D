@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 69cf18560bb16bb4fa0f5c6f773e67f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9160822268366781408
+    second: uynngame 1_0
+  - first:
+      213: -1636753874925816895
+    second: uynngame 1_1
+  - first:
+      213: -7292012212010125224
+    second: uynngame 1_2
+  - first:
+      213: -329265663560345915
+    second: uynngame 1_3
+  - first:
+      213: -631517564032579477
+    second: uynngame 1_4
+  - first:
+      213: 6513663704410098053
+    second: uynngame 1_5
+  - first:
+      213: -3503326668615741943
+    second: uynngame 1_6
+  - first:
+      213: 1691179542660938997
+    second: uynngame 1_7
+  - first:
+      213: 62059404931747095
+    second: uynngame 1_8
+  - first:
+      213: 5059999271490062590
+    second: uynngame 1_9
+  - first:
+      213: -7070454723649614791
+    second: uynngame 1_10
+  - first:
+      213: -7194897174557087629
+    second: uynngame 1_11
+  - first:
+      213: -3176121012251596156
+    second: uynngame 1_12
+  - first:
+      213: -2882838058830935200
+    second: uynngame 1_13
+  - first:
+      213: -8510370651705849541
+    second: uynngame 1_14
+  - first:
+      213: 8959343937298481981
+    second: uynngame 1_15
+  - first:
+      213: -4328461953725052576
+    second: uynngame 1_16
+  - first:
+      213: 5414761666336421223
+    second: uynngame 1_17
+  - first:
+      213: -3950295774673067444
+    second: uynngame 1_18
+  - first:
+      213: -2293048730202228499
+    second: uynngame 1_19
+  - first:
+      213: 5579063511196808073
+    second: uynngame 1_20
+  - first:
+      213: -849425409221857373
+    second: uynngame 1_21
+  - first:
+      213: -9196557056241102907
+    second: uynngame 1_22
+  - first:
+      213: 4971806192453607092
+    second: uynngame 1_23
+  - first:
+      213: 6267792465585251734
+    second: uynngame 1_24
+  - first:
+      213: 6228107183618636508
+    second: uynngame 1_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uynngame 1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 790
+        width: 129
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb7d742157c12f70800000000000000
+      internalID: 9160822268366781408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 790
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c37d4cc5051949e0800000000000000
+      internalID: -1636753874925816895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 790
+        width: 120
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858735527819dca90800000000000000
+      internalID: -7292012212010125224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 790
+        width: 140
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c690ce9f963e6bf0800000000000000
+      internalID: -329265663560345915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 519
+        width: 204
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680b661f166c37f0800000000000000
+      internalID: -631517564032579477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 508
+        width: 212
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58908b7d0ae256a50800000000000000
+      internalID: 6513663704410098053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 504
+        width: 224
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e8101d4fea16fc0800000000000000
+      internalID: -3503326668615741943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 505
+        width: 228
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef886e4478ab83640800000000000000
+      internalID: 5059999271490062590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 264
+        width: 132
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae61564c62ce3d0800000000000000
+      internalID: -3176121012251596156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 228
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bc7663f0a1ef7d0800000000000000
+      internalID: -2882838058830935200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 258
+        width: 180
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39c92e6bf615e980800000000000000
+      internalID: -8510370651705849541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_15
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 276
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33c933a7dbf55c70800000000000000
+      internalID: 8959343937298481981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 288
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76572610c09152b40800000000000000
+      internalID: 5414761666336421223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3
+        width: 224
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b2a734547d20e0800000000000000
+      internalID: -2293048730202228499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 38
+        width: 140
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ba3c44b0dc6d40800000000000000
+      internalID: 5579063511196808073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uynngame 1_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 38
+        width: 221
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf032235144f5080800000000000000
+      internalID: -9196557056241102907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

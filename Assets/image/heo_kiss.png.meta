@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 0105022a5ea682c4caaf8da7b3aa7a83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1194481846351877888
+    second: heo_kiss_0
+  - first:
+      213: 8958002766680447711
+    second: heo_kiss_1
+  - first:
+      213: -8447504747443717566
+    second: heo_kiss_2
+  - first:
+      213: 3190105051695968770
+    second: heo_kiss_3
+  - first:
+      213: 2708226188084110882
+    second: heo_kiss_4
+  - first:
+      213: -5619040018349322492
+    second: heo_kiss_5
+  - first:
+      213: 5249989415617120532
+    second: heo_kiss_6
+  - first:
+      213: 9178450420721948694
+    second: heo_kiss_7
+  - first:
+      213: -1998308825585294215
+    second: heo_kiss_8
+  - first:
+      213: -2461564113719475626
+    second: heo_kiss_9
+  - first:
+      213: -4562596640691348200
+    second: heo_kiss_10
+  - first:
+      213: -4639938609740474711
+    second: heo_kiss_11
+  - first:
+      213: 6471754794718948819
+    second: heo_kiss_12
+  - first:
+      213: -9007028386473229742
+    second: heo_kiss_13
+  - first:
+      213: -6954549015617030022
+    second: heo_kiss_14
+  - first:
+      213: 1075060924570973086
+    second: heo_kiss_15
+  - first:
+      213: 7867946969388641154
+    second: heo_kiss_16
+  - first:
+      213: 3129274628049229985
+    second: heo_kiss_17
+  - first:
+      213: -4425047009886789448
+    second: heo_kiss_18
+  - first:
+      213: 2889714021092665232
+    second: heo_kiss_19
+  - first:
+      213: -4787480418208770523
+    second: heo_kiss_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heo_kiss_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 478
+        width: 156
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d47e19e6a39010800000000000000
+      internalID: 1194481846351877888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 478
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24af032603f64ca80800000000000000
+      internalID: -8447504747443717566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 478
+        width: 115
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202748284a7854c20800000000000000
+      internalID: 3190105051695968770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 478
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e9288e5d859520800000000000000
+      internalID: 2708226188084110882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 478
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f859fcfd82502b0800000000000000
+      internalID: -5619040018349322492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 478
+        width: 118
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4194b60de85bbd840800000000000000
+      internalID: 5249989415617120532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_7
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 478
+        width: 116
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6189aa33708606f70800000000000000
+      internalID: 9178450420721948694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 483
+        width: 116
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e57be5b49444e0800000000000000
+      internalID: -1998308825585294215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 283
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652c6e10b74c6ddd0800000000000000
+      internalID: -2461564113719475626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 283
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d933a67866ea0c0800000000000000
+      internalID: -4562596640691348200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 283
+        width: 120
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69ccafa60ab9fb0800000000000000
+      internalID: -4639938609740474711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 283
+        width: 129
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd67ac62ba40d950800000000000000
+      internalID: 6471754794718948819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 279
+        width: 139
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252476e576b900380800000000000000
+      internalID: -9007028386473229742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_14
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 281
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ba1f548a7c7f90800000000000000
+      internalID: -6954549015617030022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_15
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 281
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93b4f807326bee00800000000000000
+      internalID: 1075060924570973086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 143
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b650e1510903d60800000000000000
+      internalID: 7867946969388641154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 60
+        width: 136
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a85481d1ba6d6b20800000000000000
+      internalID: 3129274628049229985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 57
+        width: 137
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02b4d70331792c0800000000000000
+      internalID: -4425047009886789448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 61
+        width: 141
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a1b187935a1820800000000000000
+      internalID: 2889714021092665232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heo_kiss_20
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 61
+        width: 151
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526178fbce37f8db0800000000000000
+      internalID: -4787480418208770523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
